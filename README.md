@@ -26,7 +26,7 @@ robot vaccine-tests.robot
 ```
 
 ### Which do you think is a better framework for E2E testing of web applications or web services: Robot Framework or Cucumber with Selenium/HTTP library and JUnit?
-
+When it comes to E2E testing of web applications, I think Robot Framework is a better tools. It visualizes how well the web services are performing and provides result files, test logs and the reports of the results for us. However, it's harder to read comparing to Cucumber because of its complex structure.
 
 
 ### What tutorial or online resource(s) did you find most helpful for learning Robot Framework?
